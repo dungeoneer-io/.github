@@ -1,7 +1,3 @@
-## Dungeoneer.io
-
-Make every run count!
-
 #### [Maintainer Docs](https://github.com/dungeoneer-io/dio-knowledge)
 
 ## Divisions
